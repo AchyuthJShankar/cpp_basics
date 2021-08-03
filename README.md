@@ -1,2 +1,2 @@
 # cpp_basics
-Codes which will help to understand c++ from basics.
+Codes which will help to understand C++ from basics.
